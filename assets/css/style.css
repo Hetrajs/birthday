@@ -61,30 +61,30 @@
     
   }
 
- /* Responsive styles 
+ /* Responsive styles */
 @media only screen and (max-width: 600px) {
   .img-text {
-      font-size: 30px;
-      top: 150px;
-      left: 25px;
+      font-size: 22px;
+      top: 200px;
+      left: 15px;
   }
 
   .img-text-1 {
       font-size: 14px;
       top: 250px;
-      left: 25px;
+      left: 15px;
   }
 
   .img-text-2 {
       font-size: 20px;
-      top: 325px;
-      left: 25px;
+      top: 355px;
+      left: 15px;
   }
 }
 
-*/
 
-/* Responsive styles */
+
+/* Responsive styles 
 @media only screen and (max-width: 350px) {
   .img-text {
       font-size: 22px;
